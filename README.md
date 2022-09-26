@@ -1,0 +1,2 @@
+# RestaurantPage
+Webpack practice project
